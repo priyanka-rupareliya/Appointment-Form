@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.xyz {
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid white;
+    /* margin: 10px 10px;
+     */
+}
+.zz {
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px 10px;
+  
+    
+}
+#button {
+    width:150px ;
+    padding: 5px 0px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
